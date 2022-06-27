@@ -1,6 +1,6 @@
 # OMSI 2 Route Maps
 自制部分OMSI 2地图的路线图，使用 Adobe Illustrator 绘制。
-> 未发布地图不会列出。
+> 未发布/预告地图不会列出。
 
 ## 城市列表
 - [x] 洛阳市
