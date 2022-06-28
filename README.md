@@ -7,10 +7,10 @@
 > - [x] 已完成，可供下载
 > - [ ] 未完成，指不定 ~~刚新建文件夹~~ 哪天就画两笔。
 
-- [x] 洛阳市
-- [x] 京通市
-- [ ] 北京市（DLC）
-- [ ] 郑州市
+- [x] [洛阳市](https://bbs.18wos.org/viewthread.php?tid=219368)
+- [x] [京通市](https://bbs.18wos.org/viewthread.php?tid=216217)
+- [ ] [北京市（DLC）](https://store.steampowered.com/app/1752630/OMSI_2_AddOn_Beijing/)
+- [ ] [郑州市](https://bbs.18wos.org/viewthread.php?tid=193643)
 
 ## 下载版（.pdf）
 均存放于 [pdf](pdf/) 文件夹中。
