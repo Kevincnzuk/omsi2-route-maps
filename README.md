@@ -11,6 +11,7 @@
 - [x] [京通市](https://bbs.18wos.org/viewthread.php?tid=216217)
 - [ ] [北京市（DLC）](https://store.steampowered.com/app/1752630/OMSI_2_AddOn_Beijing/)
 - [ ] [郑州市](https://bbs.18wos.org/viewthread.php?tid=193643)
+- [ ] [墨城](https://bbs.18wos.org/viewthread.php?tid=217341)
 
 ## 下载版（.pdf）
 均存放于 [pdf](pdf/) 文件夹中。
