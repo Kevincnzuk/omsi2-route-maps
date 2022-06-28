@@ -23,4 +23,4 @@
 随版本更新，老版本不会保留。
 
 ## 开源许可证
-请参阅 [LICENSE](LICENSE) 文件。
+[GNU Affero General Public License v3.0](LICENSE) 
